@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "https://liouk.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "../"
+
+author = "Ilias Rinis"
+title = "Ilias' Personal Page"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Ilias Rinis"
+intro = "Software Engineer"
+description = "Now [@Futurae](https://futurae.com). Previously @u-blox, @ABB and @ETH."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "A simple webpage about me"
+keywords = "personal,about,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+linkedin = "iliasrinis"
+twitter = "iliasrn"
+github = "liouk"
+stackoverflow = "1838814/liouk"
+email = "iliasr@gmail.com"
+#instagram = "<username>"
+#xing = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+
+## Extras
+[params.extra]
+#copyright = "© 2018. Ilias Rinis. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2018. Ilias Rinis."
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+#    name = "blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog/"
+#[[menu.main]]
+#    name = "about"
+#    identifier = "about"
+#    weight = 200
+#    url = "/about/"
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"
