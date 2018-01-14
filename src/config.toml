@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Ilias Rinis"
 intro = "Software Engineer"
-description = "Now [@Futurae](https://futurae.com). Previously @u-blox, @ABB and @ETH."
+description = "MSc. ETH Zurich<br >Dipl. Ing. CEID Patras<br /><br />Now [*@Futurae*](https://futurae.com). Previously @u-blox, @ABB and @ETH."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -38,31 +38,16 @@ twitter = "iliasrn"
 github = "liouk"
 stackoverflow = "1838814/liouk"
 email = "iliasr@gmail.com"
-#instagram = "<username>"
-#xing = "<username>"
-#facebook = "<username>"
-#google = "<username>"
 
 ## Extras
 [params.extra]
-#copyright = "© 2018. Ilias Rinis. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 copyright = "© 2018. Ilias Rinis."
 poweredby = true
 highlightjs = true
 
 ## Main Menu
 [[menu.main]]
-#    name = "blog"
-#    weight = 100
-#    identifier = "blog"
-#    url = "/blog/"
-#[[menu.main]]
-#    name = "about"
-#    identifier = "about"
-#    weight = 200
-#    url = "/about/"
-#[[menu.main]]
-#    name = "coderag"
-#    identifier = "coderag"
-#    weight = 300
-#    url = "/coderag/"
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about"
