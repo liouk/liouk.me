@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://liouk.github.io/about/</loc>
+    <loc>https://liouk.me/about/</loc>
   </url>
   
   <url>
-    <loc>https://liouk.github.io/categories/</loc>
+    <loc>https://liouk.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://liouk.github.io/</loc>
+    <loc>https://liouk.me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://liouk.github.io/tags/</loc>
+    <loc>https://liouk.me/tags/</loc>
     <priority>0</priority>
   </url>
   
