@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Ilias Rinis"
 intro = "Software Engineer"
-description = "MSc. ETH Zurich<br >Dipl. Ing. CEID Patras<br /><br />Now [*@Futurae*](https://futurae.com). Previously @u-blox, @ABB and @ETH."
+description = "MSc. ETH Zurich<br >Dipl. Ing. CEID Patras<br /><br />Software Engineer at [*Red Hat*](https://redhat.com/)"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -37,12 +37,11 @@ linkedin = "iliasrinis"
 twitter = "iliasrn"
 github = "liouk"
 gitlab = "liouk"
-stackoverflow = "1838814/liouk"
 email = "iliasr@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Ilias Rinis."
+copyright = "© 2018-2023 Ilias Rinis. All rights reserved."
 poweredby = true
 highlightjs = true
 
