@@ -1,0 +1,55 @@
+baseURL: https://liouk.me
+title: liouk.me
+theme: charlolamode
+copyright: "© 2018-2023 Ilias Rinis. All rights reserved."
+
+menu:
+    main:
+      - name: About
+        url: /about/
+        weight: 30
+
+params:
+    author: Ilias Rinis
+    defaultTheme: auto
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    displayFullLangName: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowToc: false
+
+    profileMode:
+        enabled: true
+        title: Ilias Rinis
+        description: |
+          MSc. ETH Zurich
+
+          Dipl. Ing. CEID Patras
+
+          Software Engineer at [*Red Hat*](https://redhat.com/)
+        imageUrl: "/img/headshot.jpg"
+        imageTitle: ilias
+        buttons:
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/liouk"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/iliasrinis/"
+        - name: twitter
+          url: "https://twitter.com/iliasrn"
+
+    assets:
+        favicon: ""
+        favicon16x16: ""
+        favicon32x32: ""
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
