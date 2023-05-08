@@ -41,7 +41,7 @@ params:
         - name: twitter
           url: "https://twitter.com/iliasrn"
         - name: email
-          url: "mailto:iliasr+site@gmail.com"
+          url: "mailto:hi@liouk.me"
 
     assets:
         favicon: "/img/favicon.ico"
