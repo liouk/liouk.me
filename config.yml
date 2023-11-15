@@ -38,8 +38,6 @@ params:
           url: "https://github.com/liouk"
         - name: linkedin
           url: "https://www.linkedin.com/in/iliasrinis/"
-        - name: twitter
-          url: "https://twitter.com/iliasrn"
         - name: email
           url: "mailto:hi@liouk.me"
 
